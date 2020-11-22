@@ -63,6 +63,7 @@
 		037D47342558165D00667C87 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		038020002561BCCA009EA3CC /* AdicionarItensViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdicionarItensViewController.swift; sourceTree = "<group>"; };
 		038020012561BCCA009EA3CC /* AdicionarItensViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AdicionarItensViewController.xib; sourceTree = "<group>"; };
+		038ECE1E256ACCC70093B1DF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		03C3085B25636D01005D8F66 /* Alerta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alerta.swift; sourceTree = "<group>"; };
 		03CF58D52568989C00040CCB /* RemoveRefeicaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveRefeicaoViewController.swift; sourceTree = "<group>"; };
 		03CF58DA2568AD8200040CCB /* RefeicaoDao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefeicaoDao.swift; sourceTree = "<group>"; };
@@ -133,6 +134,7 @@
 				037D47262558165D00667C87 /* eggplant-brownieTests */,
 				037D47312558165D00667C87 /* eggplant-brownieUITests */,
 				037D470E2558165900667C87 /* Products */,
+				038ECE1E256ACCC70093B1DF /* README.md */,
 			);
 			sourceTree = "<group>";
 		};

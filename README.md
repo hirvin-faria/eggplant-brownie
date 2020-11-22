@@ -8,6 +8,12 @@
 Aplicação Eggplant Brownie foi desenvolvida durante o curso introdutório de Swift da Alura, o aplicativo permite realizar o controle de refeições feitas pelo usuário, adicionando refeições e incluindo itens que compõem cada refeição e suas calorias.
 <p>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/hirvin-faria/eggplant-brownie/image-upload/gravacao-eggplant-brownie-01.gif" align="center" width="150px" >
+    <img src="https://raw.githubusercontent.com/hirvin-faria/eggplant-brownie/image-upload/gravacao-eggplant-brownie-02.gif" align="center" width="150px" >
+</div>
+
+
 
 ## 🎓 Oque foi aprendido
 - Trabalhar com Storyboard e XIB
