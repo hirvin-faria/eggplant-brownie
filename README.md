@@ -9,8 +9,8 @@ Aplicação Eggplant Brownie foi desenvolvida durante o curso introdutório de S
 <p>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/hirvin-faria/eggplant-brownie/image-upload/gravacao-eggplant-brownie-01.gif" align="center" width="150px" >
-    <img src="https://raw.githubusercontent.com/hirvin-faria/eggplant-brownie/image-upload/gravacao-eggplant-brownie-02.gif" align="center" width="150px" >
+    <img src="https://raw.githubusercontent.com/hirvin-faria/eggplant-brownie/image-upload/gravacao-eggplant-brownie-01.gif" align="center" width="300px" >
+    <img src="https://raw.githubusercontent.com/hirvin-faria/eggplant-brownie/image-upload/gravacao-eggplant-brownie-02.gif" align="center" width="300px" >
 </div>
 
 
